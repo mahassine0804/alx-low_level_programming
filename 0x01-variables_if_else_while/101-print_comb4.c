@@ -1,4 +1,4 @@
-nclude <stdio.h>
+#include <stdio.h>
 
 /**
  *  * main - prints all possible different combinations of three digits
@@ -22,7 +22,8 @@ int main(void)
 																																																		if (n != 55 || m != 56)
 																																																								{
 																																																															putchar(',');
-																																																																					putchar(' ');}
+																																																																					putchar(' ');
+																																																																										}
 																																																						}
 																											}
 																	}
