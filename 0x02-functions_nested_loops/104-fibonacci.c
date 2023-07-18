@@ -3,7 +3,8 @@
  * *main - prints out first 98
  * *fibonacci suit numbers
  * *Return: return 0
- * */
+*/
+
 int main(void)
 {
 	int inc;
