@@ -1,4 +1,4 @@
-nclude "main.h"
+#include "main.h"
 
 /**
  * * factorial - searchs for the factorial of a number
